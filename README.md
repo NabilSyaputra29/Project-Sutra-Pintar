@@ -187,6 +187,3 @@ Semua file berada dalam satu folder sketch:
 | Gerakan tidak terbaca | Posisi sensor tidak pas atau kalibrasi dilakukan saat tidak berdiri tegak |
 | Sentuhan meleset | Perlu menyesuaikan nilai `TS_MINX` / `TS_MAXX` / `TS_MINY` / `TS_MAXY` |
 
-## Lisensi
-
-Tambahkan lisensi pilihan Anda (mis. MIT) sebelum dipublikasikan.
